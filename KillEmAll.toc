@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: Kill Em All
+## Notes: Let Odin Sort 'em Out
+## SavedVariablesPerCharacter: keaCfg
+
+LetOdinSortEmOut.lua
